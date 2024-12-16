@@ -7,7 +7,7 @@ const App = () => {
     <section id = "Homepage">
       <Navbar/>
       <Sidebar/>
-      <Hero/>
+    <Hero/>
     </section>
     <section id = "Services">Parallax</section>
     <section>Services</section>
